@@ -14,7 +14,7 @@ These are projects I designed and built myself, from idea to implementation:
 
 ## Where I've Been
 
-PRs across projects like [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw), [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter), [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX), and others. Some merged, some rejected, all learned from.
+Contributing to open source projects across the ecosystem. Some PRs merged, some rejected, all learned from. Check my repositories for the full picture.
 
 ## The Story
 
